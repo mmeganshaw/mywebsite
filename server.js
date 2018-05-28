@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 // Setting port to 5000 for heroku
 var PORT = process.env.PORT || 5000;
 
-app.use(express.static(__dirname + '/style'));
+app.use(express.static(__dirname + '/public'));
 
 require('./routes/index.js')(app);
 

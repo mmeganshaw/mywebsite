@@ -1,0 +1,36 @@
+
+#navbar_contact {
+    margin-left: 800px;
+}
+
+.navbar_main {
+    background-color: white;
+}
+
+.navbar_text {
+    color: darkgrey;
+}
+
+.light {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+.medium_light {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.medium {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.heavy {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.github {
+    margin-right: 10px;
+}
